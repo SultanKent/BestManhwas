@@ -54,8 +54,7 @@ ul, li {
 .header {
     background: url('../BestManhwas/img/wallpapersden.com_sung-jin-woo-anime-art_1600x900.jpg') no-repeat center top / cover;
     padding-top: 57px;
-    height: 100vh;
-    background-size: cover;
+
 }
 
 .logo {
