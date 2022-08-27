@@ -196,10 +196,10 @@ header a {
         width: 48%;
     }
     .gallery img:nth-child(1) {
-        width: 23%;
+        width: 50%;
     }
     .gallery img:nth-child(2) {
-        width: 23%;
+        width: 50%;
     }
 }
 
